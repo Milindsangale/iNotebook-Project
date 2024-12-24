@@ -62,3 +62,5 @@
 - Create a Node.js server using Express.js.
 - Define API endpoints and handle requests.
 - Implement middleware for request parsing, error handling, and security.
+
+![Screenshot 2024-12-24 104220](https://github.com/user-attachments/assets/94959568-d612-4d96-acb4-653a0013dfe9)
